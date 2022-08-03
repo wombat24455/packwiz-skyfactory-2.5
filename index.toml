@@ -1648,6 +1648,11 @@ hash = "3631e5c2a6d8d2444b42ab529527c0abe7d2dc44ed68a955ced6760b76402e2e"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "e8b5ece89de55d5aab332a8a8dabc20cf0c4a17342bc318e699543b6a0777727"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "6a2fc5ac22ba6b224028a9976d37bde3842e05153e646eb771983602286a2779"
 metafile = true
