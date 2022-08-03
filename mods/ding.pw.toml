@@ -1,0 +1,13 @@
+name = "Ding"
+filename = "Ding-MC1.7.10v2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63c764b08fed9d426c50544ebbae87421b269cf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2283572
+project-id = 231275

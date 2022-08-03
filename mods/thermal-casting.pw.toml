@@ -1,0 +1,13 @@
+name = "Thermal Casting"
+filename = "thermalcasting-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a2750109e1b5328e6b8886c5671fddf235de0ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2239770
+project-id = 228537

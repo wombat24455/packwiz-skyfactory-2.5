@@ -1,0 +1,13 @@
+name = "FTB Presents SkyFactory 2.5"
+author = "Darkosto"
+version = "2.5.9"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "01125a7833e92cc18815deab8d3e731a942c553eaf5f9c3f6402e3adafa0d41f"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

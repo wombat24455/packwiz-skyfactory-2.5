@@ -1,0 +1,13 @@
+name = "ChatFlow"
+filename = "ChatFlow-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6e4e382d645582cd8c14e988dfdc1481757d9c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2242214
+project-id = 231453

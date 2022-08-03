@@ -1,0 +1,13 @@
+name = "NEIlootbags"
+filename = "NEIlootbags-1.7.10-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c703789c2b601527d20f7781b8ddda2cff62d1cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2326563
+project-id = 245008

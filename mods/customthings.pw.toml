@@ -1,0 +1,13 @@
+name = "CustomThings"
+filename = "CustomThings-MC1.7.10-0.0.3-55.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c05d892246bf3eb3f5c7f586f2098ab0ae2d13d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2330592
+project-id = 231056

@@ -1,0 +1,13 @@
+name = "FTB Islands"
+filename = "ftbisland-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "436e4ed7e0a941fabf5812ccbe0f13493b910e87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2353995
+project-id = 243538

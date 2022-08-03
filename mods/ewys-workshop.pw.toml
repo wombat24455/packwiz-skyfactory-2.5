@@ -1,0 +1,13 @@
+name = "Ewy's Workshop"
+filename = "Ewy's Workshop-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bcd9dbde5758178efe976fa2a99ceb36bfe9577"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2346187
+project-id = 236564

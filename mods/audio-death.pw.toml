@@ -1,0 +1,13 @@
+name = "Audio Death"
+filename = "audiodeath-0.6.0-1.7.10r25+e8c5987.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4845efdc59079c2a8b61681cd59af96400e5fc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2289289
+project-id = 225125

@@ -1,0 +1,13 @@
+name = "Baconators"
+filename = "baconators-1.7.10-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a88bf8818edf2a38b3e859f934c787c2e81ca4a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2311297
+project-id = 242170

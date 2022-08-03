@@ -1,0 +1,13 @@
+name = "Subheads (formerly Twitchcrumbs)"
+filename = "twitchcrumbs-mc1.7.10-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3883ed01107550f59056ffaf2a300f96ce3758c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2310775
+project-id = 236798

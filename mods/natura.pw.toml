@@ -1,0 +1,13 @@
+name = "Natura"
+filename = "natura-1.7.10-2.2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2cfc86b5c0f4a6d748a00eef6693ed37ac18a52a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2216125
+project-id = 74120

@@ -1,0 +1,13 @@
+name = "ExtraCells2"
+filename = "ExtraCells-1.7.10-2.3.14b197.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fda1478519a58236b3b857bec89c3831367778ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2308206
+project-id = 229218

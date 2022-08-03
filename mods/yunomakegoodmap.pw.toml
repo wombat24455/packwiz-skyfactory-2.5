@@ -1,0 +1,13 @@
+name = "YUNoMakeGoodMap"
+filename = "YUNoMakeGoodMap-1.7.10-4.0.0.12-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2dded66b24c5532d9d93d7d59b4cc19f475af8aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2336001
+project-id = 252104

@@ -1,0 +1,13 @@
+name = "It's Raining Food!"
+filename = "itsrainingfood-1.7.10-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f852635f1ba0cdc30621a2664dda585a585a6dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2302637
+project-id = 226922

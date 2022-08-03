@@ -1,0 +1,13 @@
+name = "Steve's Factory Manager"
+filename = "StevesFactoryManagerA93.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce5b136e2e61e8afc688eaa5df587f68318e45da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2230424
+project-id = 228626

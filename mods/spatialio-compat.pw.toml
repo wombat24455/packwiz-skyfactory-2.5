@@ -1,0 +1,13 @@
+name = "SpatialIO Compat"
+filename = "spatialiocompat-build-9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64be6769c5b4f13f5ccee91faa242e16f78b3058"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2322411
+project-id = 248712

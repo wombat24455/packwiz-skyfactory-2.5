@@ -1,0 +1,13 @@
+name = "Iron Chests"
+filename = "ironchest-1.7.10-6.0.60.741-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0faa4b78e31b4abbf143806ed7faf1fc7a2b476"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2230907
+project-id = 228756

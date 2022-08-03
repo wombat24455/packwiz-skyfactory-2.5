@@ -1,0 +1,13 @@
+name = "WitherCrumbs"
+filename = "witherCrumbs-1.7.10-0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9effe1cf0123b697f7a43c84de68135561039f5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2288939
+project-id = 242890

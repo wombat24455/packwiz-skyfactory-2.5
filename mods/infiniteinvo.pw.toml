@@ -1,0 +1,16 @@
+name = "InfiniteInvo"
+filename = "InfiniteInvo-1.0.52.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "3739462864"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2303143
+project-id = 230889
+
+[option]
+optional = true

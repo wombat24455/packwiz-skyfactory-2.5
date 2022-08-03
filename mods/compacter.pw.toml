@@ -1,0 +1,13 @@
+name = "Compacter"
+filename = "compacter-1.1.0.12-mc1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcb939aa137fa9bcc885d713492ed9710e25851e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2251463
+project-id = 231549

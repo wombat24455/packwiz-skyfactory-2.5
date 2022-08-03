@@ -1,0 +1,13 @@
+name = "Additional Resources"
+filename = "additionalresources-1.7.10_0.1.0.unknown.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65a63cb576405b90046a026b46e39d5135eec762"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2283556
+project-id = 225124

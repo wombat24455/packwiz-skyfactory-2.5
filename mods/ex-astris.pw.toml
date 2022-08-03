@@ -1,0 +1,13 @@
+name = "Ex Astris"
+filename = "Ex-Astris-MC1.7.10-1.16-36.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0af2e68520c51abf6259d5d9c717599541987c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2239780
+project-id = 226340

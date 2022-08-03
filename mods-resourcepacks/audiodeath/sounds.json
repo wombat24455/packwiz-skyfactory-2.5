@@ -1,0 +1,14 @@
+{
+  "audiodeath.death": {
+    "category": "record",
+    "sounds": [ "deathsound1", "deathsound2", "deathsound3"]
+  },
+  "audiodeath.startup": {
+    "category": "player",
+    "sounds": [ "startup" ]
+  },
+  "audiodeath.build": {
+    "category": "player",
+    "sounds": [ "build" ]
+  }
+}

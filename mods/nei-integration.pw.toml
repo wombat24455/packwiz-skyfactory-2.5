@@ -1,0 +1,13 @@
+name = "NEI Integration"
+filename = "NEIIntegration-MC1.7.10-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "faa216961fee0d2edb1fb5ad353dae9122db04b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2282522
+project-id = 225251

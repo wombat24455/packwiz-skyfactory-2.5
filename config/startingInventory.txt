@@ -1,0 +1,5 @@
+SimpleAchievements:sa.achievementBook,1,0
+minecraft:torch,1,0
+minecraft:stick,1,0,{RepairCost:2,display:{Name:"Builder's Wand"}}
+harvestcraft:coffeeItem,1,0
+harvestcraft:toastItem,1,0
