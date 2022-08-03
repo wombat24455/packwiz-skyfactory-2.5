@@ -2160,6 +2160,11 @@ hash = "84d6c651df21a80af730bd6830c1b8ed6210934741e070d4f2b92824706d1ee1"
 metafile = true
 
 [[files]]
+file = "mods/veinminer.pw.toml"
+hash = "693902f20021192671f635f8462e44d1d3e2ca50ac7a92b9a2f01fc03fa704ba"
+metafile = true
+
+[[files]]
 file = "mods/waila-harvestability.pw.toml"
 hash = "995bb06d581518cba9d922ba23f2705a7b596b458ce0af1ba23d9c669da4221c"
 metafile = true
