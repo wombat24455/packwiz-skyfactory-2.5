@@ -1501,6 +1501,10 @@ file = "mods/DragonMounts-r41-1.7.10.jar"
 hash = "fd2aebb1f74ddc70b03f3274469c84469ed551dde83be082c91d7be3708b7651"
 
 [[files]]
+file = "mods/OptiFine_1.7.10_HD_U_E7.toml"
+hash = "14e1e014d5f326b7484dbaac4ec1cde768dcc48f6b8a0add28c9d64cbe344095"
+
+[[files]]
 file = "mods/Slabcraftmod 1.7 - 1.7.10 Forge.jar"
 hash = "4a5414e7dc4d4205a02798eb615c3a43c0ec6a8532170735e785da0f0c648fc9"
 

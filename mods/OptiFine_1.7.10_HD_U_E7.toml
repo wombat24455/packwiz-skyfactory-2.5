@@ -1,0 +1,9 @@
+name = "OptiFine"
+filename = "OptiFine_1.7.10_HD_U_E7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/546108484438065163/1004425554818248755/OptiFine_1.7.10_HD_U_E7.jar"
+
+hash-format = "sha256"
+hash = "8BCD9D83DE001A0591F498105F369F070C47D2C9192774D5A5B69F646E44FAB4"
