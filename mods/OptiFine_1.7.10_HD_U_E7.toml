@@ -1,6 +1,6 @@
 name = "OptiFine"
 filename = "OptiFine_1.7.10_HD_U_E7.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.discordapp.com/attachments/546108484438065163/1004425554818248755/OptiFine_1.7.10_HD_U_E7.jar"

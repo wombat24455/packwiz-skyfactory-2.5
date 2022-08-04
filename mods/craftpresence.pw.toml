@@ -1,6 +1,6 @@
 name = "CraftPresence"
 filename = "CraftPresence-Forge-1.7.10-Release-1.8.9.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
