@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "27b4639586e6d798470077e439f10c0703e9456d6495d7058effd99f21aa383c"
+
+[[files]]
 file = "config/AE2Stuff/readme.txt"
 hash = "f86901d1cbf94aa31daff7fd7898391008892b2a4c0d4c6983d491427184d412"
 
@@ -1501,10 +1505,6 @@ file = "mods/DragonMounts-r41-1.7.10.jar"
 hash = "fd2aebb1f74ddc70b03f3274469c84469ed551dde83be082c91d7be3708b7651"
 
 [[files]]
-file = "mods/OptiFine_1.7.10_HD_U_E7.toml"
-hash = "14e1e014d5f326b7484dbaac4ec1cde768dcc48f6b8a0add28c9d64cbe344095"
-
-[[files]]
 file = "mods/Slabcraftmod 1.7 - 1.7.10 Forge.jar"
 hash = "4a5414e7dc4d4205a02798eb615c3a43c0ec6a8532170735e785da0f0c648fc9"
 
@@ -1653,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "e8b5ece89de55d5aab332a8a8dabc20cf0c4a17342bc318e699543b6a0777727"
+hash = "5667a8bfe310d4734c538e2b0ec60b86c39aa58f45c7f520132407b608807831"
 metafile = true
 
 [[files]]
