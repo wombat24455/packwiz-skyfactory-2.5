@@ -1563,6 +1563,11 @@ hash = "49723e54538b79091584e28dd62b83894b7ced9efb95e9c8b73e4c3f7fefb72d"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "27f968f3e42a06c7a1f664a794eb3c4e646ba1b06c424467191dfb016eeb04a7"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft-bibliowoods-natura-edition.pw.toml"
 hash = "3b5e0d8b873427bbd087228100274acc931530b791eb6765b618ac821d10f7a7"
 metafile = true
