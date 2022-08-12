@@ -1767,6 +1767,11 @@ hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
 metafile = true
 
 [[files]]
+file = "mods/foamfix.pw.toml"
+hash = "7049e78e62a9a6fdaa650a3d4c7f38aa99e86cb42b8aca6f8327ab6932ba6d8d"
+metafile = true
+
+[[files]]
 file = "mods/forbidden-magic.pw.toml"
 hash = "100047ae847bc5ded978517d83f86b7d90166622eecc4b9721582145cd51d218"
 metafile = true
