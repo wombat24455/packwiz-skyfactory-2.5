@@ -1583,6 +1583,11 @@ hash = "317d58f790be0d2fcf3fc1c682c293b1ef9e18f1aed616f2dc029fd311590c37"
 metafile = true
 
 [[files]]
+file = "mods/bigger-packets-please.pw.toml"
+hash = "8f4fa364b35e0b5eed8c008586afb262fe674a1d94f152e1d8c2a00147e0cf53"
+metafile = true
+
+[[files]]
 file = "mods/botania-garden-of-glass.pw.toml"
 hash = "af374be0d057f0480335006bf91186d7dc54b2755b0d5bf779fcf487d6473c9b"
 metafile = true
